@@ -1,8 +1,8 @@
 # Manuela Ferreira
 
-**`Engenheira de Software`**
+**`Engenheira de Software | Cientista de dados`**
 
-Meu nome é Manuela Ferreira e atualmente estou cursando Sistemas de Informação na UFRRJ. Sou fascinada por tecnologia e inovação e o impacto que elas podem realizar na sociedade.
+Olá, me chamo Manuela Ferreira e atualmente estou cursando Sistemas de Informação na UFRRJ. Sou fascinada por tecnologia, inovação e o impacto que elas podem realizar na sociedade. Estou em uma constante busca por conhecimento na área de dados e aprendizado de máquina.
 
 ---
 
@@ -47,6 +47,30 @@ Meu nome é Manuela Ferreira e atualmente estou cursando Sistemas de Informaçã
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <br/>
