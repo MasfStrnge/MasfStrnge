@@ -2,7 +2,7 @@
 
 **`Engenheira de Software`**
 
-Meu nome é Manuela Ferreira e atualmente estou cursando Sistemas de Informação na UFRRJ.
+Meu nome é Manuela Ferreira e atualmente estou cursando Sistemas de Informação na UFRRJ. Sou fascinada por tecnologia e inovação e o impacto que elas podem realizar na sociedade.
 
 ---
 
