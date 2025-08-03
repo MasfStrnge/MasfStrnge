@@ -52,6 +52,8 @@ Meu nome é Manuela Ferreira e atualmente estou cursando Sistemas de Informaçã
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
