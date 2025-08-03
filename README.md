@@ -2,7 +2,9 @@
 
 **`Engenheira de Software | Cientista de dados`**
 
-Olá, me chamo Manuela Ferreira e atualmente estou cursando Sistemas de Informação na UFRRJ. Sou fascinada por tecnologia, inovação e o impacto que elas podem realizar na sociedade. Estou em uma constante busca por conhecimento na área de dados e aprendizado de máquina.
+Olá! Me chamo Manuela Ferreira e atualmente curso Sistemas de Informação na UFRRJ. Sou fascinada por tecnologia, inovação e pelo impacto positivo que elas podem gerar na sociedade.
+
+Atualmente, estou em constante evolução e aprofundamento na área de dados, com foco em análise, engenharia e aprendizado de máquina. 
 
 ---
 
