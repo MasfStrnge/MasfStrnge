@@ -3,6 +3,7 @@
 **`Estudante de Sistemas de Informação | Software Engineer`**
 
 Olá! Me chamo Manuela Ferreira e atualmente curso Sistemas de Informação na UFRRJ. Sou fascinada por tecnologia, inovação e pelo impacto positivo que elas podem gerar na sociedade.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
