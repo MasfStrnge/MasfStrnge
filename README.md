@@ -1,11 +1,8 @@
 # Manuela Ferreira
 
-**`Estudante de Sistemas de Informação | Data Engineer`**
+**`Estudante de Sistemas de Informação | Software Engineer`**
 
 Olá! Me chamo Manuela Ferreira e atualmente curso Sistemas de Informação na UFRRJ. Sou fascinada por tecnologia, inovação e pelo impacto positivo que elas podem gerar na sociedade.
-
-Atualmente, estou em constante evolução e aprofundamento na área de dados, com foco em análise, engenharia e aprendizado de máquina. 
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
